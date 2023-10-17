@@ -1,6 +1,6 @@
-# 💡Sobre Você - Aplicativo
+# 💡Sobre Você - O Planejamento Front
 
-Utlizando React, realizamos a criação de uma tela "Sobre Você" que utiliza a API do ViaCep para obter e exibir o endereço completo com base no CEP fornecido.
+Utilizando React, realizamos a criação de uma tela "Sobre Você" que utiliza a API do ViaCep para obter e exibir o endereço completo com base no CEP fornecido.
 
 ## 💡 Funcionalidade
 
