@@ -1,0 +1,10 @@
+.Button {
+    /* display: flex; */
+    padding: 9px 15px;
+    border-radius: 8px;
+    background-color: #863DFF;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: space-around;
+}

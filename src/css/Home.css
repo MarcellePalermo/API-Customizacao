@@ -1,0 +1,20 @@
+p{
+color: #FFF;
+font-family:sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 20px;
+}
+
+html {
+background-color: #070A26;
+text-align: center;
+}
+
+.img{
+padding: 150px 10px 0px;
+}
+
+/* Não chamar a css html, mudar para outra. Eu não sabia qual chamar para mudar o fundo. Tive que apelar */
